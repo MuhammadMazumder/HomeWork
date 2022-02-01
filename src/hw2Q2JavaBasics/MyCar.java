@@ -5,7 +5,7 @@ package hw2Q2JavaBasics;
  */
 public class MyCar {
 	public static void main(String[] args) {
-		System.out.print("My name is Muhammad Taufiq Mazumder," + "\nI Love to drive," + "\nMy car info is bellow");
+		System.out.print("My name is Muhammad Taufiq Mazumder," + "\nI Love to drive," + "\nMy car info is bellow-");
 		System.out.print("\n\tCar: Ford escape\n");
 		System.out.print("\tColor: Green\n");
 		System.out.print("\tModel: 2015 SE\n");

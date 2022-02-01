@@ -1,8 +1,5 @@
 package hw1Q2JavaBasics;
 
-
-
-
 public class JavaBasics {
 
 	public static void main(String[] args) {
